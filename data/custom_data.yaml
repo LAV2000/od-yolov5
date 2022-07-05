@@ -1,5 +1,5 @@
 
-path: ../train_data  # dataset root dir
+path: train_data  # dataset root dir
 train: images/train  # train images (relative to 'path') 128 images
 val: images/val  # val images (relative to 'path') 128 images
 test:  # test images (optional)
